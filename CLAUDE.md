@@ -26,6 +26,7 @@ No supongas el formato (Reel, feed, YouTube, tamaño, duración) ni el estilo (t
 
 Cada negocio tiene su archivo `negocios/<negocio>/aprendizajes.md`.
 - **Antes de editar** algo de un negocio, leé su ficha de marca y sus aprendizajes.
+- Si el negocio tiene `formatos/`, preguntá para qué formato es el video (si no lo dijo) y leé también su `formato.md`.
 - **Después de cada corrección** que pida el usuario, anotá en los aprendizajes de ese negocio qué se corrigió y cómo hacerlo bien la próxima vez.
 - Lo que aprendiste de un negocio se anota solo en el archivo de ese negocio (regla 1).
 
