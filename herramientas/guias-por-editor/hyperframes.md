@@ -44,6 +44,16 @@ Ejemplo: *"Para negocio-a, un Reel de 15 segundos, alegre y rápido, anunciando 
 
 Si algún día hace falta una cuenta de HeyGen, la clave se guarda con `npx hyperframes auth login`, fuera del proyecto. **Nunca** en un archivo `.env` dentro del repositorio (regla 5).
 
+## ElevenLabs (voces pagas)
+
+- La clave de ElevenLabs está guardada en el entorno **Editor-de-Video-Claude** como *Network secret* de `api.elevenlabs.io` (encabezado `xi-api-key`). No está en el proyecto y Claude nunca la ve: el sistema la agrega sola a cada pedido.
+- Las herramientas que buscan la variable `ELEVENLABS_API_KEY` se corren con el valor de relleno `ELEVENLABS_API_KEY=proxy-injected`; la clave real la pone el sistema.
+- La clave tiene que tener estos permisos en ElevenLabs (*API Keys* → editar la clave):
+  - **Voices: Read** → para listar las voces
+  - **Text to Speech: Access** → para generar voz
+  - **User: Read** → para ver cuántos créditos quedan (y poder avisar el costo, regla 6)
+- Generar voz con ElevenLabs consume créditos: siempre se avisa antes (regla 6).
+
 ## Datos de uso
 
 El envío de datos de uso a HeyGen está **apagado** (`hyperframes telemetry disable` y la variable `HYPERFRAMES_NO_TELEMETRY=1` del entorno).
