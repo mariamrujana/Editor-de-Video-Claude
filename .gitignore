@@ -1,0 +1,20 @@
+# Los videos, audios y material pesado NO se suben (se guardan en Drive o en un disco).
+negocios/**/material/*
+negocios/**/exportados/*
+!negocios/**/material/.gitkeep
+!negocios/**/exportados/.gitkeep
+
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.m4v
+*.wav
+*.aif
+*.aiff
+
+# Archivos temporales de los editores y del sistema
+*.cache
+CacheClip/
+.DS_Store
+Thumbs.db
