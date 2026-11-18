@@ -8,6 +8,7 @@ A diferencia de CapCut o DaVinci, **no se edita con el mouse**: se le pide a Cla
 - Videos con texto animado, títulos, subtítulos y gráficos
 - Reels con la misma estructura para varios negocios (cambia solo la marca)
 - Subtítulos automáticos a partir de un video con voz (usa el modelo Parakeet, gratis y local)
+- Voz en off y música de fondo gratis, generadas en el propio entorno (Kokoro y MusicGen)
 - Presentaciones animadas
 
 ## Cómo pedir un video
@@ -35,6 +36,8 @@ Ejemplo: *"Para negocio-a, un Reel de 15 segundos, alegre y rápido, anunciando 
 |---|---|
 | Armar y renderizar videos en este entorno | Voces, imágenes, música y video generados por HeyGen (créditos) |
 | Subtítulos con Parakeet | Render en la nube |
+| Voz en off con Kokoro (hay voz en español: `ef_dora`) | |
+| Música de fondo con MusicGen (tarda unos 30 segundos por cada 3 segundos de música) | |
 | Bloques de la biblioteca (transiciones, títulos, efectos) | Funciones Pro: copiar el estilo de un video existente, plantillas de estilo |
 
 ## Cuentas y claves
