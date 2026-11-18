@@ -41,12 +41,13 @@ Paleta pop art, con aire retro.
 
 | Uso | Tipografía | Alternativa (si el editor no la tiene) |
 |---|---|---|
-| Títulos principales | Bebas Neue (Cyrillic) | League Gothic u Oswald |
+| Títulos principales | Bebas Neue | League Gothic u Oswald |
 | Títulos secundarios | League Gothic | Oswald |
-| Textos | Montaser Arabic | Montserrat |
-| Detalles / etiquetas (estilo máquina de escribir) | 29LT Makina | Space Mono |
+| Textos | Montserrat | Inter |
+| Detalles / etiquetas (estilo máquina de escribir) | Space Mono | IBM Plex Mono |
 
-Los archivos de las tipografías van en `tipografias/`. Bebas Neue y League Gothic son gratuitas (Google Fonts); Montaser Arabic y 29LT Makina son de pago: si no están instaladas, usar la alternativa.
+Todas son gratuitas (Google Fonts) y los archivos van en `tipografias/`.
+Montserrat y Space Mono reemplazan a Montaser Arabic y 29LT Makina del PDF de referencia, que son de pago.
 
 ## 5. Música y sonido
 
