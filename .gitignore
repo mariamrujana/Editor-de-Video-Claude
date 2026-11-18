@@ -18,3 +18,10 @@ negocios/**/exportados/*
 CacheClip/
 .DS_Store
 Thumbs.db
+
+# Claves: nunca dentro del proyecto (regla 5 de CLAUDE.md)
+.env
+.env.*
+*.key
+*secret*
+*credentials*
