@@ -84,7 +84,7 @@ for z in ZOOMS:
 # subtítulos
 for cid, s, d, _ in caps:
     js.append(f'tl.fromTo("#{cid}-in", {{ scale: 0.82, opacity: 0 }}, {{ scale: 1, opacity: 1, duration: 0.12, ease: "back.out(3)" }}, {s});')
-    js.append(f'tl.set("#{cid}", {{ visibility: "visible" }}, {s}).set("#{cid}", {{ visibility: "hidden" }}, {round(s+d,2)});')
+    js.append(f'tl.set("#{cid}", {{ opacity: 1, visibility: "visible" }}, {s}).set("#{cid}", {{ opacity: 0, visibility: "hidden" }}, {round(s+d,2)});')
 for bid, s, e, *_ in BIG:
     js.append(f'tl.fromTo("#{bid}-in", {{ scale: 1.5, opacity: 0 }}, {{ scale: 1, opacity: 1, duration: 0.18, ease: "power4.out" }}, {s}).to("#{bid}-in", {{ opacity: 0, duration: 0.1 }}, {round(e-0.1,2)});')
 for tid, s, e, *_ in TAGS + [('t-subte', 61.0, 64.7)]:
@@ -140,7 +140,7 @@ html, body { width:1080px; height:1920px; overflow:hidden; background:var(--ink)
 .tag-in.blue { background:var(--blue); }
 .tag-n { color:var(--yellow); }
 #caps { position:absolute; inset:0; z-index:8; }
-.cap { position:absolute; left:0; right:0; top:1110px; text-align:center; visibility:hidden; }
+.cap { position:absolute; left:0; right:0; top:1110px; text-align:center; visibility:hidden; opacity:0; }
 .cap-in { display:inline-block; background:var(--cream); color:var(--ink); font-size:84px; line-height:1; padding:16px 28px 6px;
   border:4px solid var(--ink); box-shadow:8px 8px 0 rgba(23,23,19,.85); max-width:760px; }
 .cap-in .k { color:var(--red); }
