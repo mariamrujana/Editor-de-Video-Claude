@@ -1,0 +1,1166 @@
+[
+  {
+    "id": "w0",
+    "text": "La",
+    "start": 0,
+    "end": 0.24
+  },
+  {
+    "id": "w1",
+    "text": "música",
+    "start": 0.24,
+    "end": 0.56
+  },
+  {
+    "id": "w2",
+    "text": "tiene",
+    "start": 0.56,
+    "end": 0.72
+  },
+  {
+    "id": "w3",
+    "text": "que",
+    "start": 0.72,
+    "end": 0.88
+  },
+  {
+    "id": "w4",
+    "text": "ser",
+    "start": 0.88,
+    "end": 1.04
+  },
+  {
+    "id": "w5",
+    "text": "acompañado",
+    "start": 1.04,
+    "end": 1.68
+  },
+  {
+    "id": "w6",
+    "text": "de",
+    "start": 1.68,
+    "end": 1.92
+  },
+  {
+    "id": "w7",
+    "text": "algo",
+    "start": 1.92,
+    "end": 2.24
+  },
+  {
+    "id": "w8",
+    "text": "visual",
+    "start": 2.24,
+    "end": 2.88
+  },
+  {
+    "id": "w9",
+    "text": "para",
+    "start": 3.04,
+    "end": 3.28
+  },
+  {
+    "id": "w10",
+    "text": "poder",
+    "start": 3.28,
+    "end": 3.44
+  },
+  {
+    "id": "w11",
+    "text": "ser",
+    "start": 3.68,
+    "end": 3.92
+  },
+  {
+    "id": "w12",
+    "text": "consumido,",
+    "start": 3.92,
+    "end": 4.48
+  },
+  {
+    "id": "w13",
+    "text": "es",
+    "start": 4.48,
+    "end": 4.72
+  },
+  {
+    "id": "w14",
+    "text": "decir,",
+    "start": 4.72,
+    "end": 4.96
+  },
+  {
+    "id": "w15",
+    "text": "un",
+    "start": 4.96,
+    "end": 5.12
+  },
+  {
+    "id": "w16",
+    "text": "video",
+    "start": 5.12,
+    "end": 5.36
+  },
+  {
+    "id": "w17",
+    "text": "o",
+    "start": 5.84,
+    "end": 6.08
+  },
+  {
+    "id": "w18",
+    "text": "algo",
+    "start": 6.08,
+    "end": 6.4
+  },
+  {
+    "id": "w19",
+    "text": "tangible",
+    "start": 6.48,
+    "end": 7.04
+  },
+  {
+    "id": "w20",
+    "text": "como",
+    "start": 7.12,
+    "end": 7.36
+  },
+  {
+    "id": "w21",
+    "text": "un",
+    "start": 7.36,
+    "end": 7.6
+  },
+  {
+    "id": "w22",
+    "text": "CD.",
+    "start": 7.6,
+    "end": 8.4
+  },
+  {
+    "id": "w23",
+    "text": "Así",
+    "start": 8.4,
+    "end": 8.48
+  },
+  {
+    "id": "w24",
+    "text": "fue",
+    "start": 8.8,
+    "end": 8.88
+  },
+  {
+    "id": "w25",
+    "text": "que",
+    "start": 9.04,
+    "end": 9.12
+  },
+  {
+    "id": "w26",
+    "text": "Andy",
+    "start": 9.12,
+    "end": 9.52
+  },
+  {
+    "id": "w27",
+    "text": "Warhol",
+    "start": 9.52,
+    "end": 10
+  },
+  {
+    "id": "w28",
+    "text": "convirtió",
+    "start": 10.24,
+    "end": 10.88
+  },
+  {
+    "id": "w29",
+    "text": "a",
+    "start": 10.88,
+    "end": 11.04
+  },
+  {
+    "id": "w30",
+    "text": "una",
+    "start": 11.04,
+    "end": 11.28
+  },
+  {
+    "id": "w31",
+    "text": "banda",
+    "start": 11.28,
+    "end": 11.68
+  },
+  {
+    "id": "w32",
+    "text": "en",
+    "start": 11.68,
+    "end": 11.92
+  },
+  {
+    "id": "w33",
+    "text": "una",
+    "start": 11.92,
+    "end": 12.16
+  },
+  {
+    "id": "w34",
+    "text": "obra",
+    "start": 12.16,
+    "end": 12.56
+  },
+  {
+    "id": "w35",
+    "text": "de",
+    "start": 12.56,
+    "end": 12.8
+  },
+  {
+    "id": "w36",
+    "text": "arte.",
+    "start": 12.8,
+    "end": 13.28
+  },
+  {
+    "id": "w37",
+    "text": "¡Sí,",
+    "start": 13.44,
+    "end": 13.84
+  },
+  {
+    "id": "w38",
+    "text": "la",
+    "start": 13.92,
+    "end": 14.08
+  },
+  {
+    "id": "w39",
+    "text": "famosa",
+    "start": 14.08,
+    "end": 14.72
+  },
+  {
+    "id": "w40",
+    "text": "banana!",
+    "start": 14.72,
+    "end": 15.76
+  },
+  {
+    "id": "w41",
+    "text": "Esta",
+    "start": 16.24,
+    "end": 16.56
+  },
+  {
+    "id": "w42",
+    "text": "fue",
+    "start": 16.56,
+    "end": 16.8
+  },
+  {
+    "id": "w43",
+    "text": "la",
+    "start": 16.8,
+    "end": 17.04
+  },
+  {
+    "id": "w44",
+    "text": "tapa",
+    "start": 17.04,
+    "end": 17.44
+  },
+  {
+    "id": "w45",
+    "text": "del",
+    "start": 17.44,
+    "end": 17.6
+  },
+  {
+    "id": "w46",
+    "text": "disco",
+    "start": 17.6,
+    "end": 18.08
+  },
+  {
+    "id": "w47",
+    "text": "de",
+    "start": 18.08,
+    "end": 18.32
+  },
+  {
+    "id": "w48",
+    "text": "Velvet",
+    "start": 18.32,
+    "end": 18.88
+  },
+  {
+    "id": "w49",
+    "text": "and",
+    "start": 19.04,
+    "end": 19.12
+  },
+  {
+    "id": "w50",
+    "text": "the",
+    "start": 19.28,
+    "end": 19.36
+  },
+  {
+    "id": "w51",
+    "text": "Grand.",
+    "start": 19.44,
+    "end": 19.76
+  },
+  {
+    "id": "w52",
+    "text": "O",
+    "start": 19.84,
+    "end": 19.92
+  },
+  {
+    "id": "w53",
+    "text": "sea,",
+    "start": 19.92,
+    "end": 20.08
+  },
+  {
+    "id": "w54",
+    "text": "nadie",
+    "start": 20.72,
+    "end": 21.12
+  },
+  {
+    "id": "w55",
+    "text": "conoce",
+    "start": 21.12,
+    "end": 21.52
+  },
+  {
+    "id": "w56",
+    "text": "a",
+    "start": 21.52,
+    "end": 21.6
+  },
+  {
+    "id": "w57",
+    "text": "la",
+    "start": 21.6,
+    "end": 21.68
+  },
+  {
+    "id": "w58",
+    "text": "banda.",
+    "start": 21.68,
+    "end": 22
+  },
+  {
+    "id": "w59",
+    "text": "Pero",
+    "start": 22.08,
+    "end": 22.16
+  },
+  {
+    "id": "w60",
+    "text": "sí",
+    "start": 22.32,
+    "end": 22.56
+  },
+  {
+    "id": "w61",
+    "text": "conocen",
+    "start": 22.56,
+    "end": 22.96
+  },
+  {
+    "id": "w62",
+    "text": "la",
+    "start": 22.96,
+    "end": 23.04
+  },
+  {
+    "id": "w63",
+    "text": "obra",
+    "start": 23.04,
+    "end": 23.2
+  },
+  {
+    "id": "w64",
+    "text": "de",
+    "start": 23.2,
+    "end": 23.28
+  },
+  {
+    "id": "w65",
+    "text": "arte",
+    "start": 23.28,
+    "end": 23.52
+  },
+  {
+    "id": "w66",
+    "text": "de",
+    "start": 23.52,
+    "end": 23.6
+  },
+  {
+    "id": "w67",
+    "text": "Andy",
+    "start": 23.6,
+    "end": 23.92
+  },
+  {
+    "id": "w68",
+    "text": "Warhol.",
+    "start": 23.92,
+    "end": 24.48
+  },
+  {
+    "id": "w69",
+    "text": "¿Entendés",
+    "start": 25.04,
+    "end": 25.6
+  },
+  {
+    "id": "w70",
+    "text": "que",
+    "start": 25.6,
+    "end": 25.68
+  },
+  {
+    "id": "w71",
+    "text": "lo",
+    "start": 25.76,
+    "end": 25.92
+  },
+  {
+    "id": "w72",
+    "text": "visual.",
+    "start": 25.92,
+    "end": 26.4
+  },
+  {
+    "id": "w73",
+    "text": "El",
+    "start": 27.52,
+    "end": 27.76
+  },
+  {
+    "id": "w74",
+    "text": "original.",
+    "start": 27.76,
+    "end": 28.64
+  },
+  {
+    "id": "w75",
+    "text": "Andy",
+    "start": 28.64,
+    "end": 28.96
+  },
+  {
+    "id": "w76",
+    "text": "Warhol",
+    "start": 29.04,
+    "end": 29.52
+  },
+  {
+    "id": "w77",
+    "text": "usaba",
+    "start": 29.68,
+    "end": 30.08
+  },
+  {
+    "id": "w78",
+    "text": "ocho",
+    "start": 30.08,
+    "end": 30.24
+  },
+  {
+    "id": "w79",
+    "text": "puntos",
+    "start": 30.4,
+    "end": 30.64
+  },
+  {
+    "id": "w80",
+    "text": "clave",
+    "start": 30.64,
+    "end": 30.96
+  },
+  {
+    "id": "w81",
+    "text": "que",
+    "start": 31.04,
+    "end": 31.2
+  },
+  {
+    "id": "w82",
+    "text": "puedes",
+    "start": 31.2,
+    "end": 31.52
+  },
+  {
+    "id": "w83",
+    "text": "usar",
+    "start": 31.6,
+    "end": 32
+  },
+  {
+    "id": "w84",
+    "text": "vos",
+    "start": 32,
+    "end": 32.4
+  },
+  {
+    "id": "w85",
+    "text": "en",
+    "start": 32.4,
+    "end": 32.64
+  },
+  {
+    "id": "w86",
+    "text": "tu",
+    "start": 32.64,
+    "end": 32.88
+  },
+  {
+    "id": "w87",
+    "text": "obra",
+    "start": 32.88,
+    "end": 33.2
+  },
+  {
+    "id": "w88",
+    "text": "de",
+    "start": 33.2,
+    "end": 33.36
+  },
+  {
+    "id": "w89",
+    "text": "arte.",
+    "start": 33.36,
+    "end": 34
+  },
+  {
+    "id": "w90",
+    "text": "El",
+    "start": 34,
+    "end": 34.16
+  },
+  {
+    "id": "w91",
+    "text": "primero,",
+    "start": 34.16,
+    "end": 34.72
+  },
+  {
+    "id": "w92",
+    "text": "la",
+    "start": 34.72,
+    "end": 34.88
+  },
+  {
+    "id": "w93",
+    "text": "repetición.",
+    "start": 34.88,
+    "end": 35.6
+  },
+  {
+    "id": "w94",
+    "text": "La",
+    "start": 35.76,
+    "end": 35.92
+  },
+  {
+    "id": "w95",
+    "text": "repetición.",
+    "start": 35.92,
+    "end": 37.04
+  },
+  {
+    "id": "w96",
+    "text": "Hay",
+    "start": 37.68,
+    "end": 37.92
+  },
+  {
+    "id": "w97",
+    "text": "que",
+    "start": 37.92,
+    "end": 38.08
+  },
+  {
+    "id": "w98",
+    "text": "repetir,",
+    "start": 38.08,
+    "end": 38.48
+  },
+  {
+    "id": "w99",
+    "text": "hay",
+    "start": 38.48,
+    "end": 38.56
+  },
+  {
+    "id": "w100",
+    "text": "que",
+    "start": 38.72,
+    "end": 38.8
+  },
+  {
+    "id": "w101",
+    "text": "hacer.",
+    "start": 38.96,
+    "end": 39.2
+  },
+  {
+    "id": "w102",
+    "text": "Repetir",
+    "start": 39.36,
+    "end": 39.84
+  },
+  {
+    "id": "w103",
+    "text": "una",
+    "start": 39.84,
+    "end": 40
+  },
+  {
+    "id": "w104",
+    "text": "imagen.",
+    "start": 40,
+    "end": 40.56
+  },
+  {
+    "id": "w105",
+    "text": "La",
+    "start": 40.56,
+    "end": 40.72
+  },
+  {
+    "id": "w106",
+    "text": "repetición",
+    "start": 40.72,
+    "end": 41.28
+  },
+  {
+    "id": "w107",
+    "text": "podía",
+    "start": 41.28,
+    "end": 41.6
+  },
+  {
+    "id": "w108",
+    "text": "hacer",
+    "start": 41.6,
+    "end": 41.68
+  },
+  {
+    "id": "w109",
+    "text": "que",
+    "start": 41.84,
+    "end": 42
+  },
+  {
+    "id": "w110",
+    "text": "te",
+    "start": 42,
+    "end": 42.16
+  },
+  {
+    "id": "w111",
+    "text": "quedas",
+    "start": 42.16,
+    "end": 42.56
+  },
+  {
+    "id": "w112",
+    "text": "en",
+    "start": 42.56,
+    "end": 42.64
+  },
+  {
+    "id": "w113",
+    "text": "la",
+    "start": 42.64,
+    "end": 42.72
+  },
+  {
+    "id": "w114",
+    "text": "cabeza.",
+    "start": 42.72,
+    "end": 43.04
+  },
+  {
+    "id": "w115",
+    "text": "Que",
+    "start": 43.28,
+    "end": 43.44
+  },
+  {
+    "id": "w116",
+    "text": "vaciar",
+    "start": 43.52,
+    "end": 43.92
+  },
+  {
+    "id": "w117",
+    "text": "al",
+    "start": 44,
+    "end": 44.08
+  },
+  {
+    "id": "w118",
+    "text": "sentido",
+    "start": 44.08,
+    "end": 44.4
+  },
+  {
+    "id": "w119",
+    "text": "de",
+    "start": 44.4,
+    "end": 44.48
+  },
+  {
+    "id": "w120",
+    "text": "la",
+    "start": 44.48,
+    "end": 44.64
+  },
+  {
+    "id": "w121",
+    "text": "imagen",
+    "start": 44.64,
+    "end": 44.96
+  },
+  {
+    "id": "w122",
+    "text": "individual",
+    "start": 44.96,
+    "end": 45.44
+  },
+  {
+    "id": "w123",
+    "text": "por",
+    "start": 45.52,
+    "end": 45.76
+  },
+  {
+    "id": "w124",
+    "text": "un",
+    "start": 45.76,
+    "end": 45.84
+  },
+  {
+    "id": "w125",
+    "text": "nuevo",
+    "start": 45.84,
+    "end": 46.24
+  },
+  {
+    "id": "w126",
+    "text": "sentido",
+    "start": 46.24,
+    "end": 46.72
+  },
+  {
+    "id": "w127",
+    "text": "de",
+    "start": 46.72,
+    "end": 46.88
+  },
+  {
+    "id": "w128",
+    "text": "una",
+    "start": 46.88,
+    "end": 47.12
+  },
+  {
+    "id": "w129",
+    "text": "imagen",
+    "start": 47.12,
+    "end": 47.44
+  },
+  {
+    "id": "w130",
+    "text": "colectiva",
+    "start": 47.44,
+    "end": 47.92
+  },
+  {
+    "id": "w131",
+    "text": "de",
+    "start": 48,
+    "end": 48.16
+  },
+  {
+    "id": "w132",
+    "text": "base",
+    "start": 48.16,
+    "end": 48.4
+  },
+  {
+    "id": "w133",
+    "text": "de",
+    "start": 48.4,
+    "end": 48.56
+  },
+  {
+    "id": "w134",
+    "text": "la",
+    "start": 48.56,
+    "end": 48.64
+  },
+  {
+    "id": "w135",
+    "text": "repetición.",
+    "start": 48.8,
+    "end": 49.6
+  },
+  {
+    "id": "w136",
+    "text": "Apropión",
+    "start": 49.76,
+    "end": 50.8
+  },
+  {
+    "id": "w137",
+    "text": "de",
+    "start": 50.8,
+    "end": 50.96
+  },
+  {
+    "id": "w138",
+    "text": "lo",
+    "start": 50.96,
+    "end": 51.2
+  },
+  {
+    "id": "w139",
+    "text": "cotidiano.",
+    "start": 51.2,
+    "end": 51.68
+  },
+  {
+    "id": "w140",
+    "text": "Productos",
+    "start": 52.16,
+    "end": 52.64
+  },
+  {
+    "id": "w141",
+    "text": "cotidianos,",
+    "start": 52.64,
+    "end": 53.28
+  },
+  {
+    "id": "w142",
+    "text": "o",
+    "start": 53.36,
+    "end": 53.44
+  },
+  {
+    "id": "w143",
+    "text": "sea,",
+    "start": 53.44,
+    "end": 53.76
+  },
+  {
+    "id": "w144",
+    "text": "la",
+    "start": 53.76,
+    "end": 54
+  },
+  {
+    "id": "w145",
+    "text": "lata",
+    "start": 54,
+    "end": 54.32
+  },
+  {
+    "id": "w146",
+    "text": "de",
+    "start": 54.32,
+    "end": 54.48
+  },
+  {
+    "id": "w147",
+    "text": "sopa.",
+    "start": 54.48,
+    "end": 54.8
+  },
+  {
+    "id": "w148",
+    "text": "Vuelta",
+    "start": 55.04,
+    "end": 55.28
+  },
+  {
+    "id": "w149",
+    "text": "y",
+    "start": 55.36,
+    "end": 55.44
+  },
+  {
+    "id": "w150",
+    "text": "lo",
+    "start": 55.52,
+    "end": 55.6
+  },
+  {
+    "id": "w151",
+    "text": "convertís",
+    "start": 55.6,
+    "end": 56
+  },
+  {
+    "id": "w152",
+    "text": "con",
+    "start": 56.08,
+    "end": 56.24
+  },
+  {
+    "id": "w153",
+    "text": "la",
+    "start": 56.24,
+    "end": 56.32
+  },
+  {
+    "id": "w154",
+    "text": "música,",
+    "start": 56.32,
+    "end": 56.64
+  },
+  {
+    "id": "w155",
+    "text": "porque",
+    "start": 56.64,
+    "end": 56.72
+  },
+  {
+    "id": "w156",
+    "text": "puedes",
+    "start": 56.96,
+    "end": 57.12
+  },
+  {
+    "id": "w157",
+    "text": "agarrar",
+    "start": 57.28,
+    "end": 57.68
+  },
+  {
+    "id": "w158",
+    "text": "sonidos",
+    "start": 57.68,
+    "end": 58.08
+  },
+  {
+    "id": "w159",
+    "text": "cotidianos,",
+    "start": 58.08,
+    "end": 58.72
+  },
+  {
+    "id": "w160",
+    "text": "convertirlos.",
+    "start": 58.88,
+    "end": 59.52
+  },
+  {
+    "id": "w161",
+    "text": "In",
+    "start": 59.91,
+    "end": 59.99
+  },
+  {
+    "id": "w162",
+    "text": "the",
+    "start": 60.23,
+    "end": 60.31
+  },
+  {
+    "id": "w163",
+    "text": "musical.",
+    "start": 60.39,
+    "end": 60.79
+  },
+  {
+    "id": "w164",
+    "text": "toma",
+    "start": 60.99,
+    "end": 61.31
+  },
+  {
+    "id": "w165",
+    "text": "el",
+    "start": 61.31,
+    "end": 61.39
+  },
+  {
+    "id": "w166",
+    "text": "sonido",
+    "start": 61.39,
+    "end": 61.71
+  },
+  {
+    "id": "w167",
+    "text": "del",
+    "start": 61.71,
+    "end": 61.87
+  },
+  {
+    "id": "w168",
+    "text": "subte",
+    "start": 61.87,
+    "end": 62.19
+  },
+  {
+    "id": "w169",
+    "text": "que",
+    "start": 62.35,
+    "end": 62.51
+  },
+  {
+    "id": "w170",
+    "text": "te",
+    "start": 62.51,
+    "end": 62.67
+  },
+  {
+    "id": "w171",
+    "text": "recomiendo",
+    "start": 62.67,
+    "end": 63.15
+  },
+  {
+    "id": "w172",
+    "text": "vayas",
+    "start": 63.15,
+    "end": 63.47
+  },
+  {
+    "id": "w173",
+    "text": "a",
+    "start": 63.47,
+    "end": 63.55
+  },
+  {
+    "id": "w174",
+    "text": "escuchar",
+    "start": 63.55,
+    "end": 63.95
+  },
+  {
+    "id": "w175",
+    "text": "mi",
+    "start": 63.95,
+    "end": 64.11
+  },
+  {
+    "id": "w176",
+    "text": "canción",
+    "start": 64.11,
+    "end": 64.27
+  },
+  {
+    "id": "w177",
+    "text": "los",
+    "start": 64.91,
+    "end": 64.99
+  },
+  {
+    "id": "w178",
+    "text": "8",
+    "start": 64.99,
+    "end": 65.15
+  },
+  {
+    "id": "w179",
+    "text": "The",
+    "start": 65.03,
+    "end": 65.11
+  },
+  {
+    "id": "w180",
+    "text": "eight",
+    "start": 65.19,
+    "end": 65.35
+  },
+  {
+    "id": "w181",
+    "text": "points",
+    "start": 65.43,
+    "end": 65.51
+  },
+  {
+    "id": "w182",
+    "text": "that",
+    "start": 65.67,
+    "end": 65.75
+  },
+  {
+    "id": "w183",
+    "text": "used",
+    "start": 65.83,
+    "end": 65.99
+  },
+  {
+    "id": "w184",
+    "text": "Andy",
+    "start": 66.15,
+    "end": 66.47
+  },
+  {
+    "id": "w185",
+    "text": "Warhol",
+    "start": 66.47,
+    "end": 66.95
+  },
+  {
+    "id": "w186",
+    "text": "Andy",
+    "start": 68.07,
+    "end": 68.39
+  },
+  {
+    "id": "w187",
+    "text": "to",
+    "start": 68.71,
+    "end": 68.79
+  },
+  {
+    "id": "w188",
+    "text": "convert",
+    "start": 69.11,
+    "end": 69.27
+  },
+  {
+    "id": "w189",
+    "text": "your",
+    "start": 69.75,
+    "end": 69.91
+  },
+  {
+    "id": "w190",
+    "text": "music",
+    "start": 69.91,
+    "end": 70.15
+  },
+  {
+    "id": "w191",
+    "text": "in",
+    "start": 70.31,
+    "end": 70.39
+  },
+  {
+    "id": "w192",
+    "text": "an",
+    "start": 70.55,
+    "end": 70.63
+  },
+  {
+    "id": "w193",
+    "text": "art.",
+    "start": 71.19,
+    "end": 71.67
+  }
+]
