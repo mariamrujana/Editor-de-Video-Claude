@@ -25,3 +25,7 @@ Thumbs.db
 *.key
 *secret*
 *credentials*
+
+# Archivos temporales de HyperFrames
+.hyperframes/
+node_modules/
