@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 500">
+  <defs>
+    <pattern id="dots" width="9" height="9" patternUnits="userSpaceOnUse"><circle cx="4.5" cy="4.5" r="2.2" fill="#171713"/></pattern>
+    <clipPath id="body"><path d="M92 44 C 172 70, 242 168, 240 282 C 238 382, 192 448, 138 478 C 122 488, 104 478, 112 462 C 150 418, 152 352, 142 272 C 132 184, 110 112, 76 64 Z"/></clipPath>
+  </defs>
+  <!-- cuerpo -->
+  <path d="M92 44 C 172 70, 242 168, 240 282 C 238 382, 192 448, 138 478 C 122 488, 104 478, 112 462 C 150 418, 152 352, 142 272 C 132 184, 110 112, 76 64 Z" fill="#FFEC4E"/>
+  <g clip-path="url(#body)">
+    <!-- cara de sombra (lado de adentro) con trama de puntos -->
+    <path d="M76 64 C 110 112, 132 184, 142 272 C 152 352, 150 418, 112 462 L 150 470 C 178 420, 186 350, 178 270 C 170 180, 140 110, 92 50 Z" fill="url(#dots)" opacity=".75"/>
+    <!-- franja negra de sombra pegada al borde interno -->
+    <path d="M80 70 C 112 118, 132 190, 142 272 C 150 350, 148 414, 116 458 C 134 430, 160 380, 158 300 C 156 220, 128 130, 80 70 Z" fill="#171713"/>
+    <!-- aristas (caras de la banana) -->
+    <path d="M96 50 C 168 104, 206 196, 200 300 C 196 380, 168 438, 128 474" fill="none" stroke="#171713" stroke-width="5" stroke-linecap="round"/>
+    <path d="M150 92 C 196 150, 222 230, 218 310" fill="none" stroke="#171713" stroke-width="3" stroke-linecap="round" opacity=".7"/>
+    <!-- manchas de serigrafía -->
+    <path d="M168 118 c 10 4, 16 14, 10 18 c -8 2, -14 -8, -10 -18 z" fill="#171713"/>
+    <path d="M214 214 c 6 10, 6 26, -2 28 c -6 -4, -6 -20, 2 -28 z" fill="#171713"/>
+    <path d="M206 360 c 10 6, 10 30, 0 40 c -8 -6, -10 -28, 0 -40 z" fill="#171713"/>
+    <path d="M180 196 c 6 2, 8 8, 4 10 c -4 0, -6 -6, -4 -10 z" fill="#171713"/>
+    <path d="M178 420 c 8 2, 10 12, 4 14 c -6 -2, -8 -10, -4 -14 z" fill="#171713"/>
+  </g>
+  <!-- contorno grueso -->
+  <path d="M92 44 C 172 70, 242 168, 240 282 C 238 382, 192 448, 138 478 C 122 488, 104 478, 112 462 C 150 418, 152 352, 142 272 C 132 184, 110 112, 76 64 Z" fill="none" stroke="#171713" stroke-width="9" stroke-linejoin="round"/>
+  <!-- tallo -->
+  <path d="M76 64 L 56 28 C 52 16, 66 8, 78 14 L 98 40 C 96 52, 86 60, 76 64 Z" fill="#171713"/>
+  <!-- punta -->
+  <path d="M112 462 C 104 478, 122 490, 138 478 C 130 470, 120 464, 112 462 Z" fill="#171713"/>
+</svg>
