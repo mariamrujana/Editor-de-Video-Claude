@@ -28,9 +28,10 @@
 ## Cómo se edita
 
 - **Ritmo de cortes:** rápido. Cortes de salto (jump cuts) y **acercamientos de golpe** (zoom) en las frases importantes.
-- **Subtítulos:** palabra por palabra (2 o 3 palabras como máximo), en **Bebas Neue**, negro cálido sobre un papelito **crema** tipo recorte, a la altura del pecho (nunca sobre la cara). Palabras clave en **rojo tomate**.
+- **Subtítulos:** de a 2 o 3 palabras, en **Bebas Neue amarillo Warhol, sin recuadro**, con borde y sombra negros para que se lean; a la altura del pecho (nunca sobre la cara). Palabras clave en **rojo tomate**.
 - **Palabras de impacto:** las ideas clave aparecen **GIGANTES** en Bebas Neue, en rojo tomate o celeste pop, ocupando el ancho de la pantalla (como "PAGAR" o "el cucaracho 5.0" en la referencia).
 - **Números de los puntos:** cada punto clave arranca con un cartel grande ("1. REPETICIÓN"), estilo etiqueta de collage.
+- **Objetos que se nombran:** cuando dice "video", "CD" o el nombre de un artista, aparece un dibujo MUMI de eso (sticker que entra con un pop).
 - **Insertos / voz en off:** cuando se nombra una obra o un objeto, se corta a una imagen a pantalla completa o en recuadro, con la voz de Mumi encima. Siempre en **versión MUMI** (dibujo de línea, colores de la paleta), nunca la obra original de otro artista.
 - **Recursos visuales:** collage, papel rasgado, cinta, tachones, rayas, y la banana / lata "TOMATE MUMI" como sellos.
 - **Colores que predominan:** rojo tomate y celeste pop sobre crema; amarillo Warhol para acentos.
